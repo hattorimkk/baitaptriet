@@ -1,0 +1,136 @@
+.u-section-1 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("images/19.5._Dep_me_man_canh_dep_Viet_Nam_1.jpg");
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 600px;
+}
+
+.u-section-1 .u-text-1 {
+  width: 545px;
+  animation-duration: 1000ms;
+  background-image: none;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  margin: 64px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.4);
+  line-height: 52.8px;
+  animation-duration: 1750ms;
+  text-transform: uppercase;
+  margin: 30px 90px 0;
+}
+
+.u-section-1 .u-group-1 {
+  width: 606px;
+  min-height: 114px;
+  background-image: none;
+  margin: 135px 253px 22px auto;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+.u-section-1 .u-text-3 {
+  animation-duration: 1000ms;
+  margin: 18px 0 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 495px;
+  }
+
+  .u-section-1 .u-text-1 {
+    text-transform: none;
+    letter-spacing: normal;
+    margin-top: -509px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3.75rem;
+    margin: -581px 120px 60px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-weight: normal;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 379px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -777px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-top: -901px;
+    margin-left: 160px;
+    margin-right: 160px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-right: 114px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 284px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 540px;
+    margin-top: -844px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 512px;
+    margin-top: -868px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 540px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 179px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 340px;
+    margin-top: -1290px;
+  }
+
+  .u-section-1 .u-text-2 {
+    line-height: 1;
+    width: 340px;
+    margin-top: -1324px;
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+}

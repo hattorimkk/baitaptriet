@@ -1,0 +1,198 @@
+.u-section-1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 607px;
+}
+
+.u-section-1 .u-slider-1 {
+  width: 669px;
+  min-height: 571px;
+  margin: 60px auto 0 0;
+}
+
+.u-section-1 .u-carousel-indicators-1 {
+  position: absolute;
+  bottom: 10px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/dieu-hanh-cac-dan-toc-viet-nam.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 30px;
+}
+
+.u-section-1 .u-image-2 {
+  background-image: url("images/13870194573_0747604f8c_c.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 30px;
+}
+
+.u-section-1 .u-carousel-control-1 {
+  width: 71px;
+  height: 71px;
+}
+
+.u-section-1 .u-carousel-control-2 {
+  width: 71px;
+  height: 71px;
+}
+
+.u-section-1 .u-group-1 {
+  width: 581px;
+  min-height: 405px;
+  background-image: none;
+  animation-duration: 1000ms;
+  margin: -489px 0 153px auto;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 50px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 3rem;
+  margin: 38px 262px 0 0;
+}
+
+.u-section-1 .u-text-2 {
+  margin: 20px 0 0;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  border-style: solid;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  margin: 29px auto 0 0;
+  padding: 10px 43px 10px 41px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 691px;
+  }
+
+  .u-section-1 .u-slider-1 {
+    width: 584px;
+    height: auto;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 482px;
+    min-height: 433px;
+    margin-top: -502px;
+    margin-bottom: 129px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 1.25rem;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 668px;
+  }
+
+  .u-section-1 .u-slider-1 {
+    width: 518px;
+    min-height: 548px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin: -490px auto 117px 242px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1005px;
+  }
+
+  .u-section-1 .u-slider-1 {
+    min-height: 519px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-carousel-indicators-1 {
+    width: 72px;
+    height: 3px;
+    top: auto;
+    bottom: 94px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-container-layout-2 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-group-1 {
+    margin-top: -489px;
+    margin-bottom: 153px;
+    margin-left: 29px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 50px;
+    padding-right: 50px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 261px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 919px;
+  }
+
+  .u-section-1 .u-slider-1 {
+    min-height: 423px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-group-1 {
+    min-height: 447px;
+    width: 300px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding: 25px 30px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 61px;
+    font-size: 1.5rem;
+  }
+}p:hover{
+	color:red;
+}
+h2:hover{
+	background-color:yellow;
+}
