@@ -3,7 +3,7 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 933px;
+  min-height: 1148px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -135,15 +135,14 @@
 }
 
 .u-section-2 .u-sheet-1 {
-  min-height: 805px;
+  min-height: 1062px;
 }
 
 .u-section-2 .u-group-1 {
   width: 800px;
   min-height: 353px;
   animation-duration: 1000ms;
-  height: auto;
-  margin: 60px auto;
+  margin: 226px auto 60px;
 }
 
 .u-section-2 .u-container-layout-1 {
@@ -198,7 +197,7 @@
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 776px;
+  min-height: 1245px;
 }
 
 .u-section-3 .u-group-1 {
@@ -223,7 +222,7 @@
 }
 
 .u-section-3 .u-layout-wrap-1 {
-  margin: 12px 0 55px;
+  margin: 12px 0 60px;
 }
 
 .u-section-3 .u-layout-cell-1 {
@@ -446,13 +445,12 @@
     min-height: 540px;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 933px;
+  min-height: 1624px;
 }
 
 .u-section-4 .u-group-1 {
   width: 747px;
   min-height: 460px;
-  height: auto;
   margin: 186px auto 60px;
 }
 
@@ -476,7 +474,6 @@
   text-transform: uppercase;
   font-size: 1.125rem;
   letter-spacing: 2px;
-  height: 50px;
   animation-duration: 1000ms;
   margin: 30px auto 0;
   padding: 11px 24px 11px 23px;
@@ -493,6 +490,10 @@
 
   .u-section-4 .u-text-2 {
     font-weight: normal;
+  }
+
+  .u-section-4 .u-btn-1 {
+    height: 50px;
   }
 }
 
@@ -523,7 +524,7 @@
     width: 340px;
   }
 }.u-section-5 .u-sheet-1 {
-  min-height: 793px;
+  min-height: 1001px;
 }
 
 .u-section-5 .u-image-1 {
@@ -535,12 +536,11 @@
 
 .u-section-5 .u-text-1 {
   animation-duration: 1000ms;
-  margin: 10px 293px 0 auto;
+  margin: 10px 293px 0 315px;
 }
 
 .u-section-5 .u-tabs-1 {
   min-height: 324px;
-  height: auto;
   width: 1125px;
   margin: 10px -19px 60px auto;
 }
@@ -625,9 +625,11 @@
 
   .u-section-5 .u-text-1 {
     margin-right: 242px;
+    margin-left: 215px;
   }
 
   .u-section-5 .u-tabs-1 {
+    height: auto;
     width: 940px;
     margin-right: 0;
   }
@@ -652,6 +654,7 @@
 
   .u-section-5 .u-text-1 {
     margin-right: 185px;
+    margin-left: 105px;
   }
 
   .u-section-5 .u-tabs-1 {
@@ -666,7 +669,7 @@
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 761px;
+    min-height: 969px;
   }
 
   .u-section-5 .u-image-1 {
@@ -677,6 +680,7 @@
 
   .u-section-5 .u-text-1 {
     margin-right: 139px;
+    margin-left: 8px;
   }
 
   .u-section-5 .u-tabs-1 {
@@ -716,6 +720,7 @@
 
   .u-section-5 .u-text-1 {
     margin-right: 88px;
+    margin-left: 0;
   }
 
   .u-section-5 .u-tabs-1 {
